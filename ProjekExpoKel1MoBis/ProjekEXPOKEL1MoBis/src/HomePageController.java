@@ -9,9 +9,7 @@ import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
 
 public class HomePageController implements   Initializable {
-@FXML
 
-fasbjdjnasohiu
 
 
 
